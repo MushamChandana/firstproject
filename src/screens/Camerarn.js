@@ -6,6 +6,7 @@ class Camerarn extends PureComponent{
     render(){
         return(
             <view>
+                <Text> hello world</Text>
                 
             </view>
         )
